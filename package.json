@@ -1,0 +1,27 @@
+{
+    "name": "First-server-expressJS",
+    "version": "1.0.0",
+    "description": "First-server-expressJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon node index.js"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JdvazquezDev/First-server-expressJS.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JdvazquezDev/First-server-expressJS/issues"
+    },
+    "homepage": "https://github.com/JdvazquezDev/First-server-expressJS#readme",
+    "dependencies": {
+        "ejs": "^2.6.2",
+        "express": "^4.17.1",
+        "morgan": "^1.9.1"
+    }
+}
